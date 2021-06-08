@@ -1,0 +1,56 @@
+{
+  "acadmy" : {
+    "s" : "df"
+  },
+  "user" : {
+    "abdelrahman123" : {
+      "email" : "abdo.elgamal@gmail.com",
+      "name" : "abdelrahman elgaml",
+      "password" : "ggg123@GGG",
+      "phoneno" : "015554177256",
+      "username" : "abdelrahman123"
+    },
+    "abdo123" : {
+      "email" : "abdo.elgamal@gmail.com",
+      "name" : "abdelrahmanmelgaml",
+      "password" : "abdoABDO@888",
+      "phoneno" : "01555417725",
+      "username" : "abdo123"
+    },
+    "hdhdb" : {
+      "email" : "hhdhdj@gmans.com",
+      "name" : "izzzo",
+      "password" : "hdhhdhdhhshhdh",
+      "phoneno" : "646646848",
+      "username" : "hdhdb"
+    },
+    "hxbbdhf" : {
+      "email" : "maro.nona9000@gmail.com",
+      "name" : "hdbbx",
+      "password" : "zsggshwu5627",
+      "phoneno" : "0125788754",
+      "username" : "hxbbdhf"
+    },
+    "izzo" : {
+      "email" : "ziad9918@gmail.com",
+      "name" : "ziad",
+      "password" : "aaaa1234",
+      "phoneno" : "01200327415",
+      "username" : "izzo"
+    },
+    "tittoo" : {
+      "email" : "zjsjsj@hsnxbbx.com",
+      "name" : "tito",
+      "password" : "bdbdbdbfdhfh",
+      "phoneno" : "488484044",
+      "username" : "tittoo"
+    },
+    "ابابتتبب" : {
+      "email" : "ziad77373@gmail.com",
+      "name" : "ابوبتتبتدتبت",
+      "password" : "hdhhfhfhfhhfhf",
+      "phoneno" : "64664848454",
+      "username" : "ابابتتبب"
+    }
+  }
+}
